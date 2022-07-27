@@ -1,0 +1,18 @@
+:root {
+    --main-color: #21243D;
+    --text-size: 18px;
+    --title-color: #000;
+    --article-title-color: #0A2A42;
+    --main-background: #fff;
+    --sub-title-color: #636B78;
+    --primary-font: 'Inter', sans-serif;
+    --secondary-font: 'Heebo', sans-serif;
+    --container-size: 900px;
+    --container-blog-size: 800px;
+    --button-color: #fff;
+    --copyright-color: #678398;
+}
+
+body {
+    font-family: var(--primary-font);
+}

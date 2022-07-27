@@ -1,0 +1,30 @@
+
+
+
+/*
+button.btn {
+    padding: 10px;
+    background-color: brown;
+    color: #fff;
+}
+
+.hero-btn {
+    padding: 20px;
+    background-color: green;
+    color: rebeccapurple;
+}
+
+normilize css
+*/
+
+.post-title{
+    font-size: 25px;
+}
+.post-sub-title {
+    color: gray;
+}
+
+.post-text {
+    color: blueviolet;
+}
+
